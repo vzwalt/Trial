@@ -1,1 +1,3 @@
 # Trial
+
+This is the first trial version off of the readme edits branch...
